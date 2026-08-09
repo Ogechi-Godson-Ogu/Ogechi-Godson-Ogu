@@ -1,186 +1,103 @@
-# 👋 Hi, I'm Ogechi Godson Ogu
+👋 Hi, I'm Ogechi Godson Ogu
+Environmental Scientist | Environmental Toxicologist | Environmental Consultant | Data Analyst
 
-### Environmental Scientist | Environmental Consultant | Data Analyst | Environmental Researcher
+I am an Environmental Scientist, Environmental Toxicologist, Consultant, and Data Analyst with expertise in Environmental Management, Environmental Toxicology, Environmental Impact Assessment, Environmental Auditing, Environmental Research, and Data Analytics.
+My interests sit at the intersection of environmental science, research, data analytics, and sustainability, with a focus on using scientific and data-driven approaches to understand environmental challenges and support evidence-based decision-making.
+________________________________________
+🌍 Areas of Interest
 
-I am an **Environmental Scientist and Consultant** with expertise in **Environmental Management, Environmental Toxicology, Environmental Research, and Data Analytics**.
+•	Environmental Toxicology & Ecotoxicology
+•	Environmental Impact Assessment (EIA)
+•	Environmental Auditing & Compliance
+•	Environmental Research & Monitoring
+•	Pollution Control & Environmental Risk Assessment
+•	Water Quality & Aquatic Environmental Systems
+•	Soil & Sediment Contamination
+•	Emerging Environmental Contaminants & POPs
+•	Microplastics & PFAS
+•	Environmental Health
+•	Sustainability & Natural Resource Management
+•	Environmental Data Analytics
+•	Business & Financial Analytics
+________________________________________
+💻 Technical Skills
 
-My work and interests sit at the intersection of **environmental science, research, data analytics, and sustainability**. I am interested in using data-driven approaches and scientific research to understand environmental challenges, generate actionable insights, and support evidence-based decision-making.
+Data Analytics & Business Intelligence
+•	SQL — PostgreSQL, MySQL
+•	Advanced Excel
+•	Power BI
+•	Data Cleaning & Transformation
+•	Data Visualization
+•	Statistical Analysis
+•	Business & Financial Data Analytics
+•	Environmental Data Analysis
 
----
+Data Management
+•	Relational Database Design
+•	Data Warehousing
+•	ETL & Data Transformation
+•	SQL Query Development
+________________________________________
+📊 Featured Projects
 
-## 🌍 Areas of Interest
+🩺 Diabetes Healthcare Analytics & Decision Support System
 
-* Environmental Impact Assessment (EIA)
-* Environmental Auditing
-* Environmental Research
-* Environmental Management
-* Environmental Monitoring & Compliance
-* Environmental Risk Assessment
-* Environmental Toxicology
-* Ecotoxicology
-* Pollution Control & Management
-* Water Quality Assessment
-* Soil & Sediment Contamination
-* Air Quality & Air Pollution
-* Hazardous Waste Management
-* Environmental Remediation
-* Contaminated Site Assessment
-* Climate Change & Environmental Sustainability
-* Sustainable Development
-* ESG & Corporate Sustainability
-* Environmental Data Analytics
-* Environmental Modelling
-* Natural Resource Management
-* Biodiversity & Ecosystem Management
-* Emerging Environmental Contaminants
-* Microplastics & Persistent Pollutants
+Healthcare analytics project investigating diabetes risk factors, healthcare access, care quality, hospital readmissions, resource utilization, and prevention priorities.
+Tools: PostgreSQL SQL Power BI Excel
 
----
+📈 Business Data Analytics
+Projects focused on business performance analysis, data transformation, KPI development, visualization, and dashboard development.
+Tools: SQL PostgreSQL Excel Power BI
+________________________________________
+🔬 Research Interests
 
-## 💻 Technical Skills
+My current research interests include:
+•	Environmental Pollution & Toxicology
+•	Emerging Environmental Contaminants & Persistent Organic Pollutants (POPs)
+•	Microplastics & PFAS
+•	Aquatic Environmental Systems
+•	Pollution Monitoring & Risk Assessment
+•	Environmental Health
+•	Data-Driven Environmental Research
+I am particularly interested in interdisciplinary research combining environmental science, toxicology, data analytics, and scientific research.
+________________________________________
+🎓 Education & Experience
 
-### Data Analytics & Business Intelligence
+M.Sc. Environmental Management and Toxicology
+Michael Okpara University of Agriculture, Umudike — CGPA: 4.58/5.00
 
-* SQL
-* PostgreSQL
-* Advanced Excel
-* Power BI
-* Data Analysis
-* Business Data Analytics
-* Data Cleaning & Transformation
-* Data Visualization
-* Statistical Analysis
+B.Sc. Environmental Resource Management
+Abia State University, Uturu — First Class Honours
 
-### Database & Data Management
+Principal Environmental Consultant — Samlyd Green Global Consult (2020–Present)
 
-* Relational Database Design
-* Data Warehousing
-* ETL & Data Transformation
-* SQL Query Development
-* Analytical Views
+Environmental Research Analyst (2013–2020)
 
----
+Publications: Author/co-author of multiple peer-reviewed publications in environmental science and toxicology.
+________________________________________
+💼 Opportunities & Research Collaboration
 
-## 📊 Featured Projects
+I am open to Data Analyst opportunities, Data Analytics roles, environmental data roles, research collaborations, academic networking, and PhD opportunities.
+I welcome connections with:
 
-### 🩺 Diabetes Healthcare Analytics & Decision Support System
+•	Data Analytics recruiters and employers
+•	Environmental and sustainability organizations
+•	PhD supervisors and researchers
+•	Research groups and academic collaborators
+•	Professionals working at the intersection of environmental science and data analytics
+I am particularly interested in opportunities where data analytics, environmental science, research, and evidence-based decision-making intersect.
+________________________________________
+🎯 Next Learning Goals
 
-A data analytics project using large healthcare datasets to investigate diabetes risk factors, healthcare access, care quality, hospital readmissions, resource utilization, and prevention priorities.
+I am expanding my analytical and research capabilities by learning:
 
-**Tools:** `PostgreSQL` `SQL` `Power BI` `Excel`
+•	🐍 Python for Data Analysis
+•	📊 R for Data Analysis & Statistical Computing
+________________________________________
+🤝 Let's Connect
+🔗 GitHub: Ogechi-Godson-Ogu
 
-### 📈 Business Data Analytics Projects
+📫 Open to Data Analyst opportunities, research collaborations, academic networking, interdisciplinary projects, and PhD opportunities.
+________________________________________
+🌱 Using science, research, and data to understand environmental challenges and support better decisions.
 
-Projects focused on transforming business data into actionable insights through data cleaning, SQL analysis, visualization, dashboard development, and business intelligence.
-
-**Tools:** `SQL` `PostgreSQL` `Excel` `Power BI`
-
----
-
-## 🎯 Next Learning Goals
-
-I am expanding my analytical capabilities by learning:
-
-* 🐍 **Python for Data Analysis**
-* 📊 **R for Data Analysis & Statistical Computing**
-
----
-
-## 🌱 Professional Experience
-
-### Principal Environmental Consultant
-
-**Samlyd Green Global Consult**
-*2020 – Present*
-
-Environmental consulting, environmental assessment, research, environmental management, and sustainability-related services.
-
-### Environmental Research Analyst
-
-*2013 – 2020*
-
-Environmental research, scientific investigation, data analysis, and environmental problem-solving.
-
----
-
-## 🎓 Education
-
-**MSc Environmental Management and Toxicology**
-Michael Okpara University of Agriculture, Umudike
-
-**BSc Environmental Resource Management**
-Abia State University, Uturu
-
----
-
-## 📚 Certifications & Training
-
-* Data Analytics Training — SkillUp Imo
-* Cisco Certification
-
----
-
-## 🔬 Research Interests
-
-* Environmental Pollution
-* Environmental Toxicology
-* Ecotoxicology
-* Pollution Control
-* Emerging Environmental Contaminants
-* Microplastics
-* PFAS & Persistent Pollutants
-* Aquatic Environmental Systems
-* Environmental Risk Assessment
-* Environmental Health
-* Sustainable Environmental Management
-* Environmental Data Analytics
-
----
-
-## 🎓 PhD & Research Aspirations
-
-I am interested in pursuing **PhD research in Environmental Science and related fields**, with particular interest in:
-
-* Environmental Toxicology
-* Pollution Control
-* Emerging Environmental Contaminants
-* Microplastics
-* PFAS & Persistent Pollutants
-* Aquatic Environmental Systems
-* Environmental Risk Assessment
-* Environmental Data Analytics
-
-My research goal is to combine **environmental science, toxicology, data analytics, and scientific research** to investigate environmental challenges and develop evidence-based solutions.
-
----
-
-## 🚀 Professional Focus
-
-I am interested in opportunities that combine:
-
-**🌍 Environmental Science + 📊 Data Analytics + 🔬 Research + 🌱 Sustainability**
-
-My long-term goal is to apply scientific knowledge and data-driven approaches to environmental challenges while contributing to research, sustainability, and evidence-based decision-making.
-
----
-
-## 🤝 Research & Collaboration
-
-I am open to connecting with **PhD supervisors, researchers, research groups, environmental professionals, and potential collaborators** working in areas related to:
-
-* Environmental Science & Environmental Management
-* Environmental Toxicology & Ecotoxicology
-* Pollution Control & Environmental Risk Assessment
-* Emerging Environmental Contaminants
-* Microplastics & PFAS
-* Aquatic Environmental Systems
-* Environmental Data Analytics
-* Sustainability & Environmental Research
-
-I am particularly interested in **research collaboration, interdisciplinary projects, PhD research opportunities, and data-driven approaches to solving environmental challenges**.
-
-If you are working in any of these areas, I would be glad to connect and explore opportunities for **research collaboration, knowledge exchange, and impactful environmental research**.
-
----
-
-⭐ *Using science and data to understand environmental challenges and support better decisions.*
